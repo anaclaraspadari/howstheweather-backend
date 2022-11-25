@@ -1,2 +1,2 @@
 # howstheweather-backend
-Trabalho de DSII - 3 Bimestre
+Trabalho de DSI - 3 Bimestre
